@@ -3,7 +3,7 @@
 
 E-ink display that connects to your google calendar and retrieves the data from the next few 6 days updating every 24 hours.
 
-![Display Image](E-Ink Display.jpeg)
+![](E-Ink%20Display.jpeg)
 
 ## Parts used:
 
