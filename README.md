@@ -1,7 +1,7 @@
 # E-INK-Google-Calendar
 ## E-ink display based google calendar
 
-E-ink display that connects to your google calendar and retrieves the data from the next few 6 days updating every 24 hours.
+E-ink display that connects to your google calendar and retrieves the data from the next 6 days updating every 24 hours.
 
 ![](E-Ink%20Display.jpeg)
 
