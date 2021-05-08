@@ -39,6 +39,6 @@ Studying for next exam              All day
 Thu May 13 2021
 Reading                             21:30:00-22:00:00
 
-## Credits:
+## Documentation:
  
  - https://www.waveshare.com/wiki/E-Paper_ESP32_Driver_Board
